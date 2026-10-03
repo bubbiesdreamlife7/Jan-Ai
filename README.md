@@ -226,4 +226,4 @@ Jan AI is provided as a full free version, including all features and updates. E
 Download Jan AI now and take control of your AI experience with complete privacy and customization!
 
 ---
-**Last updated:** 2026-10-03 08:39:01 UTC
+**Last updated:** 2026-10-03 14:01:14 UTC
